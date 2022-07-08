@@ -37,6 +37,10 @@ hr {
   border-width: 8px;
   border-color: #8ac8b0;
 }
+.p-header-text {
+margin: 0;
+  padding: 30px;
+}
 
 .h2-name-header {
   margin-bottom: -1rem;
