@@ -1,0 +1,161 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Nunito', sans-serif
+}
+
+h1 {
+  /* top, right, bottom, left */
+  color: #37497e;
+  font-size: 4.2rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Marck Script', cursive;
+  /* width: 10%;
+   top and bottom are 0
+   left and right are auto for center
+  margin: 0 auto; */
+}
+
+h2 {
+  color: #37497e;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+}
+
+h3 {
+  color: #4667c7;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  width: 5.5%;
+  border-width: 8px;
+  border-color: #8ac8b0;
+}
+
+.h2-name-header {
+  margin-bottom: -1rem;
+}
+
+.h2-skills-header {
+  margin-top: 5rem;
+}
+
+.profile {
+  line-height: 2;
+}
+
+.profile-img {
+  width: 50%;
+  padding-top: 22px;
+  padding-bottom: 0;
+}
+
+.top-working-img {
+  position: relative;
+  top: 14px;
+  width: 75%;
+  padding-bottom: 0;
+}
+
+.top-container {
+  background-color: #fef4e9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {}
+
+.bottom-container {
+  padding: 15px;
+  background-color: #8ac8b0;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  text-align: center;
+}
+
+.coding-img {
+  width: 25%;
+  margin-left: 30px;
+  padding-bottom: 0;
+  padding-right: 20px;
+  margin-top: -3rem;
+  float: left;
+}
+
+.coding-text-img {
+  text-align: left;
+  padding: 30px;
+}
+
+.network-img {
+  width: 28%;
+  margin-right: 40px;
+  margin-left: 30px;
+  padding-left: 20px;
+  padding-bottom: 0;
+  margin-top: -3rem;
+  float: right;
+}
+
+.network-text-img {
+  text-align: right;
+  padding: 30px;
+}
+
+.web {
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  background-color: 0, 0, 0, 0;
+  text-align: center;
+  text-decoration: none;
+}
+
+/* Shopify */
+.fa-shopify {
+  color: black;
+}
+
+/* LinkedIn */
+.fa-linkedin {
+  color: #0077b5;
+}
+
+.fa-linkedin:hover {
+  opacity: .5;
+  background-color: 0, 0, 0, 0;
+  color: #0077b5;
+}
+
+/* Email */
+.fa-paper-plane {
+  color: #fdbe72;
+}
+
+.fa-paper-plane:hover {
+  opacity: .5;
+  background-color: 0, 0, 0, 0;
+  color: #fdbe72;
+}
+
+/* Youtube */
+.fa-youtube {
+  color: white;
+}
+
+.fa-youtube:hover {
+  opacity: .5;
+  background-color: 0, 0, 0, 0;
+  color: red;
+}
