@@ -37,9 +37,11 @@ hr {
   border-width: 8px;
   border-color: #8ac8b0;
 }
+
 .p-header-text {
-margin: 0;
+  margin: 0;
   padding: 30px;
+  font-size: 22px;
 }
 
 .h2-name-header {
@@ -92,12 +94,14 @@ margin: 0;
   padding-bottom: 0;
   padding-right: 20px;
   margin-top: -3rem;
-  float: left;
 }
 
 .coding-text-img {
-  text-align: left;
-  padding: 30px;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin: 0;
+  font-size: 22px;
 }
 
 .network-img {
@@ -107,12 +111,12 @@ margin: 0;
   padding-left: 20px;
   padding-bottom: 0;
   margin-top: -3rem;
-  float: right;
 }
 
 .network-text-img {
-  text-align: right;
+  text-align: center;
   padding: 30px;
+  font-size: 22px;
 }
 
 .web {
