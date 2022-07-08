@@ -28,6 +28,8 @@ h2 {
 h3 {
   color: #4667c7;
   font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+
 }
 
 hr {
@@ -46,10 +48,18 @@ hr {
 
 .h2-name-header {
   margin-bottom: -1rem;
+    font-size: 4rem;
 }
 
 .h2-skills-header {
   margin-top: 5rem;
+  font-size: 4rem;
+}
+
+.h2-contact-header {
+  font-size: 4rem;
+  margin: 0;
+  padding: 0;
 }
 
 .profile {
