@@ -61,6 +61,10 @@ hr {
   margin: 0;
   padding: 0;
 }
+.p-contact-text {
+  margin-bottom: 70px;
+  padding: 30px;
+}
 
 .profile {
   line-height: 2;
