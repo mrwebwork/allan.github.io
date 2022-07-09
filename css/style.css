@@ -97,7 +97,7 @@ hr {
 
 .bottom-container {
   padding: 15px;
-  background-color: #8ac8b0;
+/*  background-color: #8ac8b0; hide footer text until we replace text under get in touch*/
 }
 
 .skill-row {
