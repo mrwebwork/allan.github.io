@@ -83,7 +83,10 @@ hr {
   width: 75%;
   padding-bottom: 0;
 }
-
+.header-container {
+  padding: 30px;
+  background-color: #fef4e9;
+}
 .top-container {
   background-color: #fef4e9;
   position: relative;
@@ -151,6 +154,16 @@ hr {
 .fa-shopify {
   color: black;
 }
+.fa-github {
+  color:  #171515;
+}
+
+.fa-github:hover {
+  color:  #171515;
+  opacity: .5;
+  background-color: 0, 0, 0, 0;
+}
+
 
 /* LinkedIn */
 .fa-linkedin {
